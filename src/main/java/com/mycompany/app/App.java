@@ -2,6 +2,8 @@ package com.mycompany.app;
 
 public class App {
     public static void main(String args[]) {
-        System.out.println("hello world");
+        if(true){
+            System.out.println("hello world");
+        }
     }
 }
